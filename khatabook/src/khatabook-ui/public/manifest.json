@@ -1,0 +1,19 @@
+{
+  "name": "StockStoreKhata - Inventory, POS Billing & Ledger",
+  "short_name": "StockStoreKhata",
+  "description": "Offline-First Enterprise POS Billing, Inventory, Daily Stock Register and Smart Khata Ledger",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#4f46e5",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "finance", "productivity", "shopping"]
+}

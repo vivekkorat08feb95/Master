@@ -1,0 +1,6 @@
+@Khatabook.Api_HostAddress = http://localhost:5260
+
+GET {{Khatabook.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vivekwork\\khatabook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|c:\\vivekwork\\khatabook\\src\\khatabook.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|solutionrelative:src\\khatabook.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|c:\\vivekwork\\khatabook\\src\\khatabook.api\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|solutionrelative:src\\khatabook.api\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|c:\\vivekwork\\khatabook\\src\\khatabook.api\\controllers\\stockmovementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|solutionrelative:src\\khatabook.api\\controllers\\stockmovementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|c:\\vivekwork\\khatabook\\src\\khatabook.api\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|solutionrelative:src\\khatabook.api\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|c:\\vivekwork\\khatabook\\src\\khatabook.api\\controllers\\partiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|solutionrelative:src\\khatabook.api\\controllers\\partiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|c:\\vivekwork\\khatabook\\src\\khatabook.api\\controllers\\migrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|solutionrelative:src\\khatabook.api\\controllers\\migrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|c:\\vivekwork\\khatabook\\src\\khatabook.api\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|solutionrelative:src\\khatabook.api\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|c:\\vivekwork\\khatabook\\src\\khatabook.api\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|solutionrelative:src\\khatabook.api\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|c:\\vivekwork\\khatabook\\src\\khatabook.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|solutionrelative:src\\khatabook.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|c:\\vivekwork\\khatabook\\src\\khatabook.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|solutionrelative:src\\khatabook.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|c:\\vivekwork\\khatabook\\src\\khatabook.api\\repositories\\transactions\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|solutionrelative:src\\khatabook.api\\repositories\\transactions\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|c:\\vivekwork\\khatabook\\src\\khatabook.api\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|solutionrelative:src\\khatabook.api\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|c:\\vivekwork\\khatabook\\src\\khatabook.api\\dtos\\tenants\\tenantdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|solutionrelative:src\\khatabook.api\\dtos\\tenants\\tenantdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|c:\\vivekwork\\khatabook\\src\\khatabook.api\\services\\reports\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|solutionrelative:src\\khatabook.api\\services\\reports\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|c:\\vivekwork\\khatabook\\src\\khatabook.api\\repositories\\transactions\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|solutionrelative:src\\khatabook.api\\repositories\\transactions\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|c:\\vivekwork\\khatabook\\src\\khatabook.api\\services\\reports\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|solutionrelative:src\\khatabook.api\\services\\reports\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|c:\\vivekwork\\khatabook\\src\\khatabook.api\\dtos\\billing\\invoicedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|solutionrelative:src\\khatabook.api\\dtos\\billing\\invoicedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|c:\\vivekwork\\khatabook\\src\\khatabook.api\\dtos\\parties\\partydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797E4B1B-5491-AFA2-1E57-A9E143E06213}|src\\Khatabook.Api\\Khatabook.Api.csproj|solutionrelative:src\\khatabook.api\\dtos\\parties\\partydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "src\\Khatabook.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "src\\Khatabook.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T13:43:48.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "src\\Khatabook.Api\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "src\\Khatabook.Api\\Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T13:43:18.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockMovementsController.cs",
+              "DocumentMoniker": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Controllers\\StockMovementsController.cs",
+              "RelativeDocumentMoniker": "src\\Khatabook.Api\\Controllers\\StockMovementsController.cs",
+              "ToolTip": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Controllers\\StockMovementsController.cs",
+              "RelativeToolTip": "src\\Khatabook.Api\\Controllers\\StockMovementsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T13:40:55.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "src\\Khatabook.Api\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "src\\Khatabook.Api\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T13:40:50.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartiesController.cs",
+              "DocumentMoniker": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Controllers\\PartiesController.cs",
+              "RelativeDocumentMoniker": "src\\Khatabook.Api\\Controllers\\PartiesController.cs",
+              "ToolTip": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Controllers\\PartiesController.cs",
+              "RelativeToolTip": "src\\Khatabook.Api\\Controllers\\PartiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T13:40:26.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MigrationController.cs",
+              "DocumentMoniker": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Controllers\\MigrationController.cs",
+              "RelativeDocumentMoniker": "src\\Khatabook.Api\\Controllers\\MigrationController.cs",
+              "ToolTip": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Controllers\\MigrationController.cs",
+              "RelativeToolTip": "src\\Khatabook.Api\\Controllers\\MigrationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T13:40:14.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "src\\Khatabook.Api\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "src\\Khatabook.Api\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T13:39:46.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvoicesController.cs",
+              "DocumentMoniker": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Controllers\\InvoicesController.cs",
+              "RelativeDocumentMoniker": "src\\Khatabook.Api\\Controllers\\InvoicesController.cs",
+              "ToolTip": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Controllers\\InvoicesController.cs",
+              "RelativeToolTip": "src\\Khatabook.Api\\Controllers\\InvoicesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T13:39:15.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\Khatabook.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\Khatabook.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwDEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T13:39:05.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "src\\Khatabook.Api\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "src\\Khatabook.Api\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T13:38:48.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Repositories\\Transactions\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "src\\Khatabook.Api\\Repositories\\Transactions\\TransactionRepository.cs",
+              "ToolTip": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Repositories\\Transactions\\TransactionRepository.cs",
+              "RelativeToolTip": "src\\Khatabook.Api\\Repositories\\Transactions\\TransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T11:58:01.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Repositories\\Transactions\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "src\\Khatabook.Api\\Repositories\\Transactions\\ITransactionRepository.cs",
+              "ToolTip": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Repositories\\Transactions\\ITransactionRepository.cs",
+              "RelativeToolTip": "src\\Khatabook.Api\\Repositories\\Transactions\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T11:58:01.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "src\\Khatabook.Api\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "src\\Khatabook.Api\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T11:57:58.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TenantDtos.cs",
+              "DocumentMoniker": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\DTOs\\Tenants\\TenantDtos.cs",
+              "RelativeDocumentMoniker": "src\\Khatabook.Api\\DTOs\\Tenants\\TenantDtos.cs",
+              "ToolTip": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\DTOs\\Tenants\\TenantDtos.cs",
+              "RelativeToolTip": "src\\Khatabook.Api\\DTOs\\Tenants\\TenantDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T14:08:13.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InvoiceDtos.cs",
+              "DocumentMoniker": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\DTOs\\Billing\\InvoiceDtos.cs",
+              "RelativeDocumentMoniker": "src\\Khatabook.Api\\DTOs\\Billing\\InvoiceDtos.cs",
+              "ToolTip": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\DTOs\\Billing\\InvoiceDtos.cs",
+              "RelativeToolTip": "src\\Khatabook.Api\\DTOs\\Billing\\InvoiceDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T14:08:04.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Services\\Reports\\IReportService.cs",
+              "RelativeDocumentMoniker": "src\\Khatabook.Api\\Services\\Reports\\IReportService.cs",
+              "ToolTip": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Services\\Reports\\IReportService.cs",
+              "RelativeToolTip": "src\\Khatabook.Api\\Services\\Reports\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T14:03:14.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Services\\Reports\\ReportService.cs",
+              "RelativeDocumentMoniker": "src\\Khatabook.Api\\Services\\Reports\\ReportService.cs",
+              "ToolTip": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\Services\\Reports\\ReportService.cs",
+              "RelativeToolTip": "src\\Khatabook.Api\\Services\\Reports\\ReportService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAASwKEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T14:57:36.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PartyDtos.cs",
+              "DocumentMoniker": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\DTOs\\Parties\\PartyDtos.cs",
+              "RelativeDocumentMoniker": "src\\Khatabook.Api\\DTOs\\Parties\\PartyDtos.cs",
+              "ToolTip": "C:\\vivekwork\\khatabook\\src\\Khatabook.Api\\DTOs\\Parties\\PartyDtos.cs",
+              "RelativeToolTip": "src\\Khatabook.Api\\DTOs\\Parties\\PartyDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T14:08:15.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
